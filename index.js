@@ -30,7 +30,7 @@ let resetCounter = () => {
 // ========================================================================================
 
 
-// ANOTHER WAY OF THE WRITINGB THE CPDE 
+// ANOTHER WAY OF THE WRITINGB THE CODE 
 // const countDisplay = document.querySelector('#counter');
 // const incrementBtn = document.querySelector('#incrementBtn');
 // const decrementBtn = document.querySelector('#decrementBtn');
@@ -46,6 +46,7 @@ let resetCounter = () => {
 //     let currentValue = parseInt(countDisplay.innerText);
 //     countDisplay.innerText = currentValue - 1;
 // });
+
 
 
 
